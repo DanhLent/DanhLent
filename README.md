@@ -8,7 +8,7 @@ I am a Computer Engineering student at the University of Information Technology 
 &nbsp;
 <a href="https://github.com/DanhLent"><img src="https://i.stack.imgur.com/tskMh.png" alt="GitHub"> GitHub</a>
 &nbsp;
-<a href="https://www.youtube.com/@danh2823"><img src="https://github.com/vietnh1009/introduction/blob/main/Youtube.png" alt="YouTube"> YouTube</a>
+<a href="https://www.youtube.com/@danh2823"><img src="https://github.com/DanhLent/introduction/blob/main/Youtube.png" alt="YouTube"> YouTube</a>
 
 
 <a href="https://github.com/DanhLent/STM32-Neopixel-Audio">
