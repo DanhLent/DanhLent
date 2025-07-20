@@ -4,9 +4,9 @@ I am a Computer Engineering student at the University of Information Technology 
 
 ### 📫 Connect with me:
 
-<a href="https://www.linkedin.com/in/danhlent/"><img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn"> LinkedIn</a>
+<a href="https://www.linkedin.com/in/danhlent/"><img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="24"> LinkedIn</a>
 &nbsp;
-<a href="https://github.com/DanhLent"><img src="https://i.stack.imgur.com/tskMh.png" alt="GitHub"> GitHub</a>
+<a href="https://github.com/DanhLent"><img src="https://i.stack.imgur.com/tskMh.png" alt="GitHub" width="24"> GitHub</a>
 &nbsp;
 <a href="https://www.youtube.com/@danh2823"><img src="https://raw.githubusercontent.com/vietnh1009/introduction/main/Youtube.png" alt="YouTube" width="24"> YouTube</a>
 
