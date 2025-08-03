@@ -1,16 +1,25 @@
 ### Hi there, I'm Danh Le 👋👋👋
 
-I am a Computer Engineering student at the University of Information Technology (UIT), with a passion for **Embedded Systems**. I enjoy building hardware projects from the ground up and writing firmware to make them come alive.
+I am a Computer Engineering student at the University of Information Technology (UIT). 
 
-### 📫 Connect with me:
+I am primarily interested in the field of semiconductor design. I am focusing on topics such as **Digital IC Design**, **Computer Architecture**, **RTL Design with Verilog**, and **FPGA Prototyping**. <br>
 
-<a href="https://www.linkedin.com/in/danhlent/"><img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="24"> LinkedIn</a>
+
+  
+## 📫 Connect with me:
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/danhlent/)
 &nbsp;
-<a href="https://github.com/DanhLent"><img src="https://i.stack.imgur.com/tskMh.png" alt="GitHub" width="24"> GitHub</a>
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DanhLent)
 &nbsp;
-<a href="https://www.youtube.com/@danh2823"><img src="https://raw.githubusercontent.com/vietnh1009/introduction/main/Youtube.png" alt="YouTube" width="24"> YouTube</a>
+[![Youtube](https://raw.githubusercontent.com/vietnh1009/introduction/main/Youtube.png) Youtube](https://www.youtube.com/@danh2823)
 
+### 🚀 My Pinned Projects
 
+<a href="https://github.com/DanhLent/RISC-V-CPU-Core">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DanhLent&repo=RISC-V-CPU-Core&theme=tokyonight" />
+</a>
 <a href="https://github.com/DanhLent/STM32-Neopixel-Audio">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DanhLent&repo=STM32-Neopixel-Audio&theme=synthwave" />
 </a>
+
