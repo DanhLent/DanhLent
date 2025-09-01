@@ -1,10 +1,6 @@
 ### Hi there, I'm Danh Le 👋👋👋
 
-I am a Computer Engineering student at the University of Information Technology (UIT). 
-
-I am primarily interested in the field of semiconductor design. I am focusing on topics such as **Digital IC Design**, **Computer Architecture**, **RTL Design with Verilog**, and **FPGA Prototyping**. <br>
-
-
+Computer Engineering @ UIT | Building digital hardware with Verilog & FPGAs. Semiconductor & Computer Architecture Enthusiast.
   
 ## 📫 Connect with me:
 
