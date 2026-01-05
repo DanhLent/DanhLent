@@ -1,7 +1,7 @@
 ### Hi there, I'm Danh Le 👋👋👋
 
 Computer Engineering @ UIT | Building digital hardware with Verilog & FPGAs. Semiconductor & Computer Architecture Enthusiast.
-  
+
 ## 📫 Connect with me:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/danhlent/)
@@ -12,10 +12,20 @@ Computer Engineering @ UIT | Building digital hardware with Verilog & FPGAs. Sem
 
 ### 🚀 My Pinned Projects
 
+<a href="https://github.com/DanhLent/ieee754-fpu-16bit">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DanhLent&repo=ieee754-fpu-16bit&theme=radical" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/DanhLent/ucr-neurospeed-2025">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DanhLent&repo=ucr-neurospeed-2025&theme=merko" />
+</a>
+
+<br/>
+
 <a href="https://github.com/DanhLent/RISC-V-CPU-Core">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DanhLent&repo=RISC-V-CPU-Core&theme=tokyonight" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/DanhLent/STM32-Neopixel-Audio">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DanhLent&repo=STM32-Neopixel-Audio&theme=synthwave" />
 </a>
-
